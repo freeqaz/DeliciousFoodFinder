@@ -1,4 +1,4 @@
-DeliciousFoodFinder
+FoodFinder.ly
 ===================
 
 A helpful app that helps you locate delicious food!
